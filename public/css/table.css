@@ -1,0 +1,52 @@
+thead, .sorting_1, .aksi, .jk, .hp, .tengah {
+    text-align: center;
+}
+
+table {
+    font-size: 11px;
+}
+
+input[type=search] {
+    width: 100%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.dataTables_length label{
+    float: left;
+}
+
+.dataTables_paginate a {
+    margin: 5px;
+}
+
+.modal-body {
+    overflow-x: auto;
+  }
+
+#orderan .dataTables_wrapper .dataTables_filter {
+float: right;
+text-align: right;
+visibility: hidden;
+}
+
+.card-deck .card-body {
+    padding: 0px;
+    border-radius: 0px;
+}
+
+.card-deck .btn-lg {    
+    border-radius: 0px;
+}
+
+.info-label {
+    padding: 5px;
+}
+
+/* .card a:link{
+    text-decoration: none;    
+} */
+
